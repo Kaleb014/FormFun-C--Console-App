@@ -1,0 +1,14 @@
+F:\ConsoleApp1\bin\Debug\FormFun.exe.config
+F:\ConsoleApp1\bin\Debug\FormFun.exe
+F:\ConsoleApp1\bin\Debug\FormFun.pdb
+F:\ConsoleApp1\obj\Debug\FormFun.csproj.AssemblyReference.cache
+F:\ConsoleApp1\obj\Debug\FormFun.csproj.CoreCompileInputs.cache
+F:\ConsoleApp1\obj\Debug\FormFun.exe
+F:\ConsoleApp1\obj\Debug\FormFun.pdb
+F:\FormFun\bin\Debug\FormFun.exe.config
+F:\FormFun\bin\Debug\FormFun.exe
+F:\FormFun\bin\Debug\FormFun.pdb
+F:\FormFun\obj\Debug\FormFun.csproj.AssemblyReference.cache
+F:\FormFun\obj\Debug\FormFun.csproj.CoreCompileInputs.cache
+F:\FormFun\obj\Debug\FormFun.exe
+F:\FormFun\obj\Debug\FormFun.pdb
